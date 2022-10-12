@@ -1,5 +1,8 @@
 ### Hi there 👋
-I am Aidan Banteze
+I am Aidan Banteze :sunglasses:
+
+###
+A software developer with :sparkling_heart: in JavaScript, React & Redux, Ruby and Ruby on Rails
 <!--
 **Aidan-bn/Aidan-bn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
