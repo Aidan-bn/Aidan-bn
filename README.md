@@ -2,7 +2,7 @@
 I am Aidan Banteze :sunglasses:
 
 ###
-A software developer with :sparkling_heart: in JavaScript, React & Redux, Ruby and Ruby on Rails
+A software developer with :sparkling_heart: in HTML5, CSS and JavaScript and React.
 
 ## GitHub Stats
 [![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidan-bn)](https://github.com/Aidan-bn/github-readme-stats)
