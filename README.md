@@ -2,7 +2,7 @@
 I am Aidan Banteze :sunglasses:
 
 ###
-A software developer with :sparkling_heart: in HTML5, CSS, JavaScript, React, MongoDB, NodeJS and PHP.
+A software developer with :sparkling_heart: in HTML5, CSS, JavaScript, React, Express, PostgreSQL, MongoDB, NodeJS and PHP.
 
 ## GitHub Stats
 [![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidan-bn)](https://github.com/Aidan-bn/github-readme-stats)
